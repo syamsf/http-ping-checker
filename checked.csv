@@ -1,0 +1,4 @@
+url,record_type,ping.is_success,ping.error_message,http.status_code,http.status,http.error_message,https.status_code,https.status,https.error_message
+google.com,A,true,,200,true,,200,true,
+golang.org,A,true,,200,true,,200,true,
+testing.com,A,true,,200,true,,200,true,

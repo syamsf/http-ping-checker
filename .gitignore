@@ -1,0 +1,7 @@
+.idea
+.vscode
+.env
+web-crawl
+.DS_Store
+go.sum
+checked.csv
